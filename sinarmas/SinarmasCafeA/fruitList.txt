@@ -1,0 +1,9 @@
+Pineapples,
+Apple,
+Pineapple,
+Orange,
+APPLE,
+Rotten apple,
+Grape,
+apple,
+
